@@ -4,3 +4,5 @@
 - Domino's
 
 ### Tourist
+- Opera House
+- Harbour bridge
